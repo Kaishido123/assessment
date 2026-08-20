@@ -1,2 +1,0 @@
-# assessment
-いいところ診断
